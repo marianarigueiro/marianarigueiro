@@ -4,14 +4,13 @@
 - 🌱 I’m currently learning HTMLe JAVA
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
-
+  
 - <div style="display: inline-block;">
-<img width 100% src ="https://i.pinimg.com/originals/41/47/12/414712681776185a80d9a89479fa86f2.jpg" >
 <br>
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Beatriz!;I+am+15+years+old;Welcome+to+my+profile!+😄" alt="Typing SVG">
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Mariana!;I+am+16+years+old;Welcome+to+my+profile!+😄" alt="Typing SVG">
 <br>
-<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=Bellatrizx&show_icons=true&theme=dracula">
-  <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellatrizx&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=1E90FF"/>
+<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=marianarigueiro&show_icons=true&theme=dracula">
+  <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianarigueiro&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=1E90FF"/>
 </div>
 <br>
 <div>
