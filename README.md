@@ -5,7 +5,7 @@
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
   
-- <div style="display: inline-block;">
+  <div style="display: inline-block;">
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Mariana!;I+am+16+years+old;Welcome+to+my+profile!+😄" alt="Typing SVG">
 <br>
