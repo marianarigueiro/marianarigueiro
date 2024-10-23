@@ -1,4 +1,4 @@
-## Oie, I am Mariana Rigueiro
+## Wassup, I am Mariana Rigueiro
 
 - 🔭 I’m currently working with edition
 - 🌱 I’m currently learning HTMLe JAVA
