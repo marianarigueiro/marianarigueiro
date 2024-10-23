@@ -1,7 +1,7 @@
 ## Hey, I'm Mariana de O. Rigueiro
 
 - 🔭 I’m currently working with edition
-- 🌱 I’m currently learning HTMLe JAVA
+- 🌱 I’m currently learning Frontend, Backend e Programação Web
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
   
