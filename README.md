@@ -5,9 +5,6 @@
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/mariana-de-oliveira-rigueiro-561757333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
   <div style="display: inline-block;">
 <br>
