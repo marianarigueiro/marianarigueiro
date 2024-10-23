@@ -1,4 +1,4 @@
-## Hey, I am Mariana Rigueiro
+## Hey, I'm Mariana de O. Rigueiro
 
 - 🔭 I’m currently working with edition
 - 🌱 I’m currently learning HTMLe JAVA
