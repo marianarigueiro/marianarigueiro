@@ -5,7 +5,6 @@
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
 
-...
   
   <div style="display: inline-block;">
 <br>
