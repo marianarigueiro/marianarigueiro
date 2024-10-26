@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with edition
 - 🌱 I’m currently learning Frontend, Backend e Programação Web
-- 📫 How to reach me: mariana.rigueiro1234@gmal.com
+- 📫 How to reach me: mariana.rigueiro123@gmal.com
 - 😄 Pronouns: she/her
 
   
