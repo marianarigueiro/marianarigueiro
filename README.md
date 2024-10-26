@@ -16,10 +16,12 @@
 ###
 <br>
   
-<br>
-<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=marianarigueiro&show_icons=true&theme=dracula">
-<img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianarigueiro&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=1E90FF"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianarigueiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianarigueiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <br>
 
