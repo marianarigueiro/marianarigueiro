@@ -8,7 +8,7 @@
   
   <div style="display: inline-block;">
 <br>
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Mariana!;I+have+16+years+old+.;Welcome+to+my+profile!+🥰" alt="Typing SVG">
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Mariana!;I+have+16+years+old.;Welcome+to+my+profile!+🥰" alt="Typing SVG">
 
 <br>
 <h3 align="left">🔥   My Stats :</h3>
