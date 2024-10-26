@@ -32,10 +32,11 @@
 ###
 <br>
 
-<br>
 <div>
 <br>
-<h3 align="center">passionate about programming</h3>
+  <div style="display: inline-block;">
+<br>
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6a60e0&left=true&left=true&random=false&width=500&lines=Passionate+about+programming!" alt="Typing SVG">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
