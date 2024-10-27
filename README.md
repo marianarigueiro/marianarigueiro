@@ -20,6 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianarigueiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinaoliveira&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianarigueiro&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
+
 ###
 
 <br>
