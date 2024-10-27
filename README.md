@@ -67,7 +67,7 @@
 <div>
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&center=true&center=true&random=false&width=500&lines=Thank+you+for+your+attention! :)" alt="Typing SVG">
 <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2285f5&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A020F0&section=footer"/>
 </div>
 
 
