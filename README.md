@@ -28,14 +28,8 @@
   <img src="https://streak-stats.demolab.com?user=marianarigueiro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br>
-<br>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianarigueiro&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianarigueiro&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
-
 ###
-<br>
+
 
 <div>
 <br>
@@ -75,6 +69,7 @@
 <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2285f5&section=footer"/>
 </div>
+
 
   
   ##
