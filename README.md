@@ -1,11 +1,10 @@
-## Hey, I'm Mariana de O. Rigueiro
+## Hey, I'm Mariana de O. Rigueiro  <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=ff69b4"><br>
 
 - 🔭 I’m currently working with edition
 - 🌱 I’m currently learning Front-end, Back-end and Web Programming
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
 
-  
   <div style="display: inline-block;">
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&left=true&left=true&random=false&width=500&lines=Hi+my+name+is+Mariana!;I+have+16+years+old.;Welcome+to+my+profile!+🥰" alt="Typing SVG">
