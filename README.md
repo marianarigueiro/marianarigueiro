@@ -51,10 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<br>
+
 ### </p>
   
 </div>
-<br>
+
 <div>
 <h3 align="left">IDEs:</h3>
 <p align="left">
