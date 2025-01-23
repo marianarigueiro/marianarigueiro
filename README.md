@@ -1,4 +1,4 @@
-## Hey, everyone! I'm Mariana de O. Rigueiro  <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=A020F0"><br>
+## Hey, everyone! I'm Mariana de Oliveira Rigueiro  <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=A020F0"><br>
 
 - 🔭 I’m currently working with edition
 - 🌱 I’m currently learning Front-end, Back-end and Web Programming
