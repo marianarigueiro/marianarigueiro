@@ -1,7 +1,7 @@
 ## Hey, everyone! I'm Mariana de Oliveira Rigueiro  <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=A020F0"><br>
 
-- 🔭 I’m currently working with edition
-- 🌱 I’m currently learning Front-end, Back-end and Web Programming
+- 🔭 I’m currently working with video editing
+- 🌱 I’m currently learning systems development
 - 📫 How to reach me: mariana.rigueiro1234@gmal.com
 - 😄 Pronouns: she/her
 
