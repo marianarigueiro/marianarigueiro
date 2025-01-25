@@ -14,6 +14,13 @@
 
 I am currently studying <b>systems development</b> at Etec - Zona Leste and I work with <b>video editing</b>. Here I like to share my school and personal projects.
 
+<br>
+
+<b>Além da programação...</b>
+
+- I love books.
+- I love organization.
+- I love horror games.
   
   <div style="display: inline-block;">
 <br>
