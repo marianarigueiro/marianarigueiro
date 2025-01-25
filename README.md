@@ -16,7 +16,7 @@ I am currently studying <b>systems development</b> at Etec - Zona Leste and I wo
 
 <br>
 
-<b>Além da programação...</b>
+<b>In addition to the programming...</b>
 
 - I love books.
 - I love organization.
@@ -33,10 +33,33 @@ I am currently studying <b>systems development</b> at Etec - Zona Leste and I wo
 <br>
 <h3 align="left">🔥 My stats:</h3> 
 <br>
+
+
+
+<!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marianarigueiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marianarigueiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
+
+
+
+
+<!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianarigueiro&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianarigueiro&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianarigueiro&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianarigueiro&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
 
 <div>
 <br>
