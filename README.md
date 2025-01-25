@@ -119,13 +119,3 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 
 
 <br>
-
-## 🐍 Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianarigueiro/marianarigueiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianarigueiro/marianarigueiro/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" src="https://raw.githubusercontent.com/marianarigueiro/marianarigueiro/output/github-contribution-grid-snake.svg">
-</picture>
-  
-  ##
