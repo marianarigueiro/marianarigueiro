@@ -31,7 +31,9 @@ I am currently studying <b>systems development</b> at Etec - Zona Leste and I wo
 
 
 <br>
+
 <h3 align="left">🔥 My stats:</h3> 
+
 <br>
 
 
