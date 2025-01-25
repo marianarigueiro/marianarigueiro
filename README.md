@@ -62,6 +62,17 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 | :-: | :-: |
 
 <div>
+
+
+
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=marianarigueiro&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
+</a>
+
+<br>
+
 <br>
 
 <h3 align="center">A student passionate about programming!</h3>
@@ -105,6 +116,7 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A020F0&section=footer"/>
 </div>
+
 
 <br>
 
