@@ -99,6 +99,7 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-0078d7.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ IDEA%20-0078d7.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
 </div>
 <br> 
 <div>
