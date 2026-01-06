@@ -10,8 +10,6 @@
 
 <h3 align="left">⭐️ About me:</h3> 
 
-<br>
-
 I am currently studying <b>systems development</b> at Etec - Zona Leste and I work with <b>video editing</b>. Here I like to share my school and personal projects.
 
 <br>
