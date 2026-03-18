@@ -14,16 +14,13 @@ I’m studying **Systems Development** at Etec - Zona Leste and I work with **vi
 - Organization 🗂️
 - Poetry ✍️
 
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&left=true&random=false&width=500&lines=Hi,+my+name+is+Mariana!;I+am+17+years+old.;Welcome+to+my+profile!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&lines=Hi,+my+name+is+Mariana!;I+am+17+years+old.;Welcome+to+my+profile!" alt="Typing SVG" width="500"/>
 
 ---
 
-### 🔥 My stats
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianarigueiro&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianarigueiro&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianarigueiro&theme=tokyonight) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianarigueiro&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianarigueiro&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
+### 🔥 GitHub Stats
+![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianarigueiro&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianarigueiro&layout=compact&theme=tokyonight)
 
 ---
 
