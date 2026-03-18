@@ -1,114 +1,75 @@
-## Hey, everyone! I'm Mariana Rigueiro  <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=A020F0"><br>
+## Hey, everyone! I'm Mariana Rigueiro <img align="right" src="https://komarev.com/ghpvc/?username=marianarigueiro&color=A020F0"><br>
 
-<br>
+- I’m currently working with **video editing**
+- I’m currently learning **systems development**
+- How to reach me: mariana.rigueiro1234@gmail.com
 
--  I’m currently working with video editing
--  I’m currently learning systems development
--  How to reach me: mariana.rigueiro1234@gmal.com
+---
 
-<br>
+### ⭐ About me
+I’m studying **Systems Development** at Etec - Zona Leste and I work with **video editing**. Here, I share my school and personal projects.
 
-<h3 align="left">⭐️ About me:</h3> 
+**Other interests:**
+- Books 📚
+- Organization 🗂️
+- Poetry ✍️
 
-I am currently studying <b>systems development</b> at Etec - Zona Leste and I work with <b>video editing</b>. Here I like to share my school and personal projects.
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&left=true&random=false&width=500&lines=Hi,+my+name+is+Mariana!;I+am+17+years+old.;Welcome+to+my+profile!" alt="Typing SVG">
 
-<br>
+---
 
-<b>In addition to the programming...</b>
-
-- I love books.
-- I love organization.
-- I love poetry.
-  
-  <div style="display: inline-block;">
-<br>
-    
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&left=true&left=true&random=false&width=500&lines=Hi,+my+name+is+Mariana!;I+have+17+years+old.;Welcome+to+my+profile!" alt="Typing SVG">
-
-<br>
-
-
-<br>
-
-<h3 align="left">🔥 My stats:</h3> 
-
-<br>
-
-
-
-<!-- 
-theme=ocean_dark 
-tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
--->
-
-<!-- 
-theme=ocean_dark 
-tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
--->
-
-
-
-
+### 🔥 My stats
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianarigueiro&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianarigueiro&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianarigueiro&theme=tokyonight) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianarigueiro&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianarigueiro&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
 
-<div>
+---
 
-
-
-
-
-
-<br>
-
-<br>
-
-<h3 align="center">A student passionate about programming!</h3>
-
-<br>
-
-<h3 align="left">💗 Conect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/mariana-de-oliveira-rigueiro-561757333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana de oliveira rigueiro" height="30" width="40" /></a>
-<a href="https://instagram.com/rigueiromariana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rigueiromariana" height="30" width="40" /></a>
+### 💗 Connect with me
+<p>
+<a href="https://www.linkedin.com/in/mariana-de-oliveira-rigueiro-561757333" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://instagram.com/rigueiromariana" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
 </p>
 
-<br>
+---
 
-<h3 align="left">:nerd_face: Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+### 👩‍💻 Languages & Tools
+<p>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a>
+</p>
 
-<br>
+---
 
-### </p>
-  
-</div>
+### 🖥️ IDEs
+<p>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-0078d7.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0078d7.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
 
-<div>
-<h3 align="left">:computer: IDEs:</h3>
-<p align="left">
-</div>
-<div style="display: inline-block;">
-<img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-0078d7.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>
-<img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ IDEA%20-0078d7.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
-</div>
-<br> 
-<div>
+---
 
-<br>
-  
+<p align="center">
+<img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"/> 
+</p>
 
-
-<img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"> 
+<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A020F0&section=footer"/>
-</div>
-
-
-<br>
+</p>
