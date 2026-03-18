@@ -70,3 +70,6 @@ I’m studying **Systems Development** at Etec - Zona Leste and I work with **vi
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A020F0&section=footer"/>
 </p>
+
+### 🐍 My GitHub Snake
+![GitHub Snake](https://github.com/marianarigueiro/marianarigueiro/blob/output/github-contribution-grid-snake.svg)
